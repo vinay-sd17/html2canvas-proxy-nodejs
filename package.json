@@ -4,6 +4,7 @@
   "description": "Cross-origin content proxy for html2canvas",
   "main": "server.js",
   "scripts": {
+    "start": "node examples/simple.js",
     "test": "exit 0"
   },
   "repository": {
